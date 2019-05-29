@@ -1,8 +1,10 @@
 # Smoke Simulation
 
-Method based on the following paper:
+<img src="res/rising.gif" width="250px" height="250px">           <img src="res/cubic_interp.gif" width="250px" height="250px">    
 
-![smoke1](res/rising.gif)
+
+
+Method based on the following paper:
 
 Fedkiw R, Stam J, Jensen H W. Visual simulation of smoke[C]//Proceedings of the 28th annual conference on Computer graphics and interactive techniques. ACM, 2001: 15-22.
 
